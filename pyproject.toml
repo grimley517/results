@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "swsc-racing-results-system"
 version = "0.1.0"
 authors = [
-  { name="sprightlyManifesto", email="sprightlyManifesto@example.com" }, # Placeholder email
+  { name="sprightlyManifesto" },
 ]
 description = "SWSC racing results system for average lap Portsmouth Yardstick dinghy and catamaran racing."
 readme = "readme.MD"
