@@ -165,7 +165,7 @@ eg:
 
 "Autumn 1 22-11-2022.race"
 
-once the file are copied into their location from the command prompt in the results directory  eg `c:\users\\[username]\results\` run:
+Once the files are copied into their location from the command prompt in the results directory  eg `c:\users\\[username]\results\` run:
 
 #### Generate and publish results 
 
