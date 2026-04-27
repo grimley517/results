@@ -13,9 +13,13 @@ Windows Installation:
 	https://www.python.org/downloads/
 	making sure to add Python to your system PATH when prompted	
 
+	Tkinter is included with most standard Windows Python installers.
+	If it is missing, install it by modifying/reinstalling Python with Tcl/Tk support
+	(or use the appropriate OS/package-manager installation for your environment),
+	not with pip.
+
 	Open a terminal and type:
 	python -m pip install pyqt5
-	python -m pip install tkinter
 	git clone https://github.com/sprightlyManifesto/results.git
 
 Ubuntu Installation:
