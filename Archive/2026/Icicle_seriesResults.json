@@ -1,0 +1,1411 @@
+{
+    "seriesResults": {
+        "Richard Hargreaves": {
+            "boats": [
+                "RS 300",
+                "RS 200"
+            ],
+            "resultsPY": [
+                3.0,
+                3.0,
+                1.0,
+                2.0,
+                1.0,
+                17,
+                17,
+                3.0,
+                2.0,
+                4.0,
+                5.0,
+                2.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "resultsPersonal": [
+                5.0,
+                7.0,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                7.0,
+                4.0,
+                17,
+                17
+            ],
+            "overallScorePY": 27.0,
+            "overallScorePersonal": 80.0
+        },
+        "Yossi Galiko": {
+            "boats": [
+                "PHANTOM"
+            ],
+            "resultsPY": [
+                2.0,
+                2.0,
+                2.0,
+                4.0,
+                3.0,
+                17,
+                17,
+                4.0,
+                7.0,
+                3.0,
+                17,
+                17,
+                17,
+                17,
+                17
+            ],
+            "resultsPersonal": [
+                3.0,
+                3.0,
+                1.0,
+                2.0,
+                1.0,
+                17,
+                17,
+                3.0,
+                7.0,
+                2.0,
+                17,
+                17,
+                17,
+                17,
+                17
+            ],
+            "overallScorePY": 30.0,
+            "overallScorePersonal": 27.0
+        },
+        "Colin Clasper": {
+            "boats": [
+                "DEVOTI D-ZERO",
+                "DEVOTI D-ZB"
+            ],
+            "resultsPY": [
+                1.0,
+                1.0,
+                17,
+                3.0,
+                2.0,
+                2.0,
+                2.0,
+                6.0,
+                1.0,
+                1.0,
+                1.0,
+                3.0,
+                3.0,
+                5.0,
+                2.0
+            ],
+            "resultsPersonal": [
+                2.0,
+                2.0,
+                17,
+                3.0,
+                2.0,
+                3.0,
+                3.0,
+                7.0,
+                2.0,
+                4.0,
+                2.0,
+                5.0,
+                5.0,
+                4.0,
+                2.0
+            ],
+            "overallScorePY": 26.0,
+            "overallScorePersonal": 29.0
+        },
+        "Mark Patten": {
+            "boats": [
+                "DART 18",
+                "RS 400"
+            ],
+            "resultsPY": [
+                7.0,
+                7.0,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                11.0,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17
+            ],
+            "resultsPersonal": [
+                7.0,
+                5.0,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                10.0,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17
+            ],
+            "overallScorePY": 82.0,
+            "overallScorePersonal": 80.0
+        },
+        "Steve Kirby": {
+            "boats": [
+                "STREAKER"
+            ],
+            "resultsPY": [
+                4.0,
+                4.0,
+                4.0,
+                6.0,
+                5.0,
+                4.0,
+                4.0,
+                17,
+                17,
+                8.0,
+                7.0,
+                10.0,
+                8.0,
+                17,
+                17
+            ],
+            "resultsPersonal": [
+                4.0,
+                4.0,
+                3.0,
+                6.0,
+                4.0,
+                4.0,
+                4.0,
+                17,
+                17,
+                7.0,
+                6.0,
+                10.0,
+                9.0,
+                17,
+                17
+            ],
+            "overallScorePY": 27.0,
+            "overallScorePersonal": 25.0
+        },
+        "Rob Doolan": {
+            "boats": [
+                "LASER"
+            ],
+            "resultsPY": [
+                6.0,
+                5.0,
+                17,
+                8.0,
+                17,
+                17,
+                17,
+                9.0,
+                6.0,
+                17,
+                17,
+                7.0,
+                9.0,
+                17,
+                17
+            ],
+            "resultsPersonal": [
+                6.0,
+                6.0,
+                17,
+                7.0,
+                17,
+                17,
+                17,
+                10.0,
+                6.0,
+                17,
+                17,
+                8.0,
+                10.0,
+                17,
+                17
+            ],
+            "overallScorePY": 70.0,
+            "overallScorePersonal": 70.0
+        },
+        "Andy Bunyan": {
+            "boats": [
+                "HARRIER",
+                "SPRINT 15"
+            ],
+            "resultsPY": [
+                5.0,
+                6.0,
+                17,
+                17,
+                17,
+                3.0,
+                3.0,
+                17,
+                17,
+                7.0,
+                6.0,
+                17,
+                17,
+                17,
+                17
+            ],
+            "resultsPersonal": [
+                1.0,
+                1.0,
+                17,
+                17,
+                17,
+                2.0,
+                2.0,
+                17,
+                17,
+                3.0,
+                1.0,
+                17,
+                17,
+                17,
+                17
+            ],
+            "overallScorePY": 65.0,
+            "overallScorePersonal": 55.0
+        },
+        "Mark Hejl": {
+            "boats": [
+                "LASER RADIAL",
+                "LASER",
+                "LASER 4.7"
+            ],
+            "resultsPY": [
+                17,
+                17,
+                3.0,
+                1.0,
+                4.0,
+                1.0,
+                1.0,
+                17,
+                17,
+                2.0,
+                3.0,
+                1.0,
+                2.0,
+                2.0,
+                4.0
+            ],
+            "resultsPersonal": [
+                17,
+                17,
+                2.0,
+                1.0,
+                3.0,
+                1.0,
+                1.0,
+                17,
+                17,
+                1.0,
+                4.0,
+                3.0,
+                1.0,
+                2.0,
+                3.0
+            ],
+            "overallScorePY": 43.0,
+            "overallScorePersonal": 41.0
+        },
+        "Russel Ellson": {
+            "boats": [
+                "PHANTOM"
+            ],
+            "resultsPY": [
+                17,
+                17,
+                17,
+                5.0,
+                6.0,
+                17,
+                17,
+                8.0,
+                5.0,
+                17,
+                17,
+                5.0,
+                6.0,
+                17,
+                17
+            ],
+            "resultsPersonal": [
+                17,
+                17,
+                17,
+                4.0,
+                5.0,
+                17,
+                17,
+                4.0,
+                1.0,
+                17,
+                17,
+                1.0,
+                2.0,
+                17,
+                17
+            ],
+            "overallScorePY": 79.0,
+            "overallScorePersonal": 77.0
+        },
+        "Chris Maher": {
+            "boats": [
+                "RS VISION",
+                "PHANTOM"
+            ],
+            "resultsPY": [
+                17,
+                17,
+                17,
+                9.0,
+                17,
+                17,
+                17,
+                7.0,
+                8.0,
+                17,
+                17,
+                8.0,
+                5.0,
+                17,
+                17
+            ],
+            "resultsPersonal": [
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                9.0,
+                9.0,
+                17,
+                17,
+                9.0,
+                8.0,
+                17,
+                17
+            ],
+            "overallScorePY": 94.0,
+            "overallScorePersonal": 102
+        },
+        "Sarah Binstead": {
+            "boats": [
+                "LASER RADIAL"
+            ],
+            "resultsPY": [
+                17,
+                17,
+                17,
+                7.0,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                6.0,
+                7.0,
+                17,
+                17
+            ],
+            "resultsPersonal": [
+                17,
+                17,
+                17,
+                5.0,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                2.0,
+                3.0,
+                17,
+                17
+            ],
+            "overallScorePY": 92.0,
+            "overallScorePersonal": 90.0
+        },
+        "Jim Strother": {
+            "boats": [
+                "DEVOTI D-ZERO"
+            ],
+            "resultsPY": [
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                1.0,
+                4.0,
+                5.0,
+                4.0,
+                4.0,
+                4.0,
+                17,
+                17
+            ],
+            "resultsPersonal": [
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                2.0,
+                4.0,
+                5.0,
+                3.0,
+                6.0,
+                6.0,
+                17,
+                17
+            ],
+            "overallScorePY": 102,
+            "overallScorePersonal": 102
+        },
+        "Tim Browning": {
+            "boats": [
+                "STREAKER"
+            ],
+            "resultsPY": [
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                2.0,
+                3.0,
+                6.0,
+                2.0,
+                17,
+                17,
+                3.0,
+                3.0
+            ],
+            "resultsPersonal": [
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                5.0,
+                3.0,
+                6.0,
+                5.0,
+                17,
+                17,
+                3.0,
+                4.0
+            ],
+            "overallScorePY": 102,
+            "overallScorePersonal": 102
+        },
+        "Ian Pasquet": {
+            "boats": [
+                "LASER"
+            ],
+            "resultsPY": [
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                5.0,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17
+            ],
+            "resultsPersonal": [
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                1.0,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17
+            ],
+            "overallScorePY": 102,
+            "overallScorePersonal": 102
+        },
+        "Stuart Yates": {
+            "boats": [
+                "PHANTOM VETERAN"
+            ],
+            "resultsPY": [
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                10.0,
+                10.0,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17
+            ],
+            "resultsPersonal": [
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                6.0,
+                5.0,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17
+            ],
+            "overallScorePY": 102,
+            "overallScorePersonal": 102
+        },
+        "Roger Fowler": {
+            "boats": [
+                "RS 200",
+                "RS AERO 7"
+            ],
+            "resultsPY": [
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                11.0,
+                9.0,
+                17,
+                17,
+                9.0,
+                10.0,
+                4.0,
+                5.0
+            ],
+            "resultsPersonal": [
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                8.0,
+                8.0,
+                17,
+                17,
+                4.0,
+                7.0,
+                1.0,
+                1.0
+            ],
+            "overallScorePY": 102,
+            "overallScorePersonal": 102
+        }
+    },
+    "personalSeriesResults": {
+        "Richard Hargreaves": {
+            "boats": [
+                "RS 300",
+                "RS 200"
+            ],
+            "resultsPY": [
+                3.0,
+                3.0,
+                1.0,
+                2.0,
+                1.0,
+                17,
+                17,
+                3.0,
+                2.0,
+                4.0,
+                5.0,
+                2.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "resultsPersonal": [
+                5.0,
+                7.0,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                7.0,
+                4.0,
+                17,
+                17
+            ],
+            "overallScorePY": 27.0,
+            "overallScorePersonal": 80.0
+        },
+        "Yossi Galiko": {
+            "boats": [
+                "PHANTOM"
+            ],
+            "resultsPY": [
+                2.0,
+                2.0,
+                2.0,
+                4.0,
+                3.0,
+                17,
+                17,
+                4.0,
+                7.0,
+                3.0,
+                17,
+                17,
+                17,
+                17,
+                17
+            ],
+            "resultsPersonal": [
+                3.0,
+                3.0,
+                1.0,
+                2.0,
+                1.0,
+                17,
+                17,
+                3.0,
+                7.0,
+                2.0,
+                17,
+                17,
+                17,
+                17,
+                17
+            ],
+            "overallScorePY": 30.0,
+            "overallScorePersonal": 27.0
+        },
+        "Colin Clasper": {
+            "boats": [
+                "DEVOTI D-ZERO",
+                "DEVOTI D-ZB"
+            ],
+            "resultsPY": [
+                1.0,
+                1.0,
+                17,
+                3.0,
+                2.0,
+                2.0,
+                2.0,
+                6.0,
+                1.0,
+                1.0,
+                1.0,
+                3.0,
+                3.0,
+                5.0,
+                2.0
+            ],
+            "resultsPersonal": [
+                2.0,
+                2.0,
+                17,
+                3.0,
+                2.0,
+                3.0,
+                3.0,
+                7.0,
+                2.0,
+                4.0,
+                2.0,
+                5.0,
+                5.0,
+                4.0,
+                2.0
+            ],
+            "overallScorePY": 26.0,
+            "overallScorePersonal": 29.0
+        },
+        "Mark Patten": {
+            "boats": [
+                "DART 18",
+                "RS 400"
+            ],
+            "resultsPY": [
+                7.0,
+                7.0,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                11.0,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17
+            ],
+            "resultsPersonal": [
+                7.0,
+                5.0,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                10.0,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17
+            ],
+            "overallScorePY": 82.0,
+            "overallScorePersonal": 80.0
+        },
+        "Steve Kirby": {
+            "boats": [
+                "STREAKER"
+            ],
+            "resultsPY": [
+                4.0,
+                4.0,
+                4.0,
+                6.0,
+                5.0,
+                4.0,
+                4.0,
+                17,
+                17,
+                8.0,
+                7.0,
+                10.0,
+                8.0,
+                17,
+                17
+            ],
+            "resultsPersonal": [
+                4.0,
+                4.0,
+                3.0,
+                6.0,
+                4.0,
+                4.0,
+                4.0,
+                17,
+                17,
+                7.0,
+                6.0,
+                10.0,
+                9.0,
+                17,
+                17
+            ],
+            "overallScorePY": 27.0,
+            "overallScorePersonal": 25.0
+        },
+        "Rob Doolan": {
+            "boats": [
+                "LASER"
+            ],
+            "resultsPY": [
+                6.0,
+                5.0,
+                17,
+                8.0,
+                17,
+                17,
+                17,
+                9.0,
+                6.0,
+                17,
+                17,
+                7.0,
+                9.0,
+                17,
+                17
+            ],
+            "resultsPersonal": [
+                6.0,
+                6.0,
+                17,
+                7.0,
+                17,
+                17,
+                17,
+                10.0,
+                6.0,
+                17,
+                17,
+                8.0,
+                10.0,
+                17,
+                17
+            ],
+            "overallScorePY": 70.0,
+            "overallScorePersonal": 70.0
+        },
+        "Andy Bunyan": {
+            "boats": [
+                "HARRIER",
+                "SPRINT 15"
+            ],
+            "resultsPY": [
+                5.0,
+                6.0,
+                17,
+                17,
+                17,
+                3.0,
+                3.0,
+                17,
+                17,
+                7.0,
+                6.0,
+                17,
+                17,
+                17,
+                17
+            ],
+            "resultsPersonal": [
+                1.0,
+                1.0,
+                17,
+                17,
+                17,
+                2.0,
+                2.0,
+                17,
+                17,
+                3.0,
+                1.0,
+                17,
+                17,
+                17,
+                17
+            ],
+            "overallScorePY": 65.0,
+            "overallScorePersonal": 55.0
+        },
+        "Mark Hejl": {
+            "boats": [
+                "LASER RADIAL",
+                "LASER",
+                "LASER 4.7"
+            ],
+            "resultsPY": [
+                17,
+                17,
+                3.0,
+                1.0,
+                4.0,
+                1.0,
+                1.0,
+                17,
+                17,
+                2.0,
+                3.0,
+                1.0,
+                2.0,
+                2.0,
+                4.0
+            ],
+            "resultsPersonal": [
+                17,
+                17,
+                2.0,
+                1.0,
+                3.0,
+                1.0,
+                1.0,
+                17,
+                17,
+                1.0,
+                4.0,
+                3.0,
+                1.0,
+                2.0,
+                3.0
+            ],
+            "overallScorePY": 43.0,
+            "overallScorePersonal": 41.0
+        },
+        "Russel Ellson": {
+            "boats": [
+                "PHANTOM"
+            ],
+            "resultsPY": [
+                17,
+                17,
+                17,
+                5.0,
+                6.0,
+                17,
+                17,
+                8.0,
+                5.0,
+                17,
+                17,
+                5.0,
+                6.0,
+                17,
+                17
+            ],
+            "resultsPersonal": [
+                17,
+                17,
+                17,
+                4.0,
+                5.0,
+                17,
+                17,
+                4.0,
+                1.0,
+                17,
+                17,
+                1.0,
+                2.0,
+                17,
+                17
+            ],
+            "overallScorePY": 79.0,
+            "overallScorePersonal": 77.0
+        },
+        "Chris Maher": {
+            "boats": [
+                "RS VISION",
+                "PHANTOM"
+            ],
+            "resultsPY": [
+                17,
+                17,
+                17,
+                9.0,
+                17,
+                17,
+                17,
+                7.0,
+                8.0,
+                17,
+                17,
+                8.0,
+                5.0,
+                17,
+                17
+            ],
+            "resultsPersonal": [
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                9.0,
+                9.0,
+                17,
+                17,
+                9.0,
+                8.0,
+                17,
+                17
+            ],
+            "overallScorePY": 94.0,
+            "overallScorePersonal": 102
+        },
+        "Sarah Binstead": {
+            "boats": [
+                "LASER RADIAL"
+            ],
+            "resultsPY": [
+                17,
+                17,
+                17,
+                7.0,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                6.0,
+                7.0,
+                17,
+                17
+            ],
+            "resultsPersonal": [
+                17,
+                17,
+                17,
+                5.0,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                2.0,
+                3.0,
+                17,
+                17
+            ],
+            "overallScorePY": 92.0,
+            "overallScorePersonal": 90.0
+        },
+        "Jim Strother": {
+            "boats": [
+                "DEVOTI D-ZERO"
+            ],
+            "resultsPY": [
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                1.0,
+                4.0,
+                5.0,
+                4.0,
+                4.0,
+                4.0,
+                17,
+                17
+            ],
+            "resultsPersonal": [
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                2.0,
+                4.0,
+                5.0,
+                3.0,
+                6.0,
+                6.0,
+                17,
+                17
+            ],
+            "overallScorePY": 102,
+            "overallScorePersonal": 102
+        },
+        "Tim Browning": {
+            "boats": [
+                "STREAKER"
+            ],
+            "resultsPY": [
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                2.0,
+                3.0,
+                6.0,
+                2.0,
+                17,
+                17,
+                3.0,
+                3.0
+            ],
+            "resultsPersonal": [
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                5.0,
+                3.0,
+                6.0,
+                5.0,
+                17,
+                17,
+                3.0,
+                4.0
+            ],
+            "overallScorePY": 102,
+            "overallScorePersonal": 102
+        },
+        "Ian Pasquet": {
+            "boats": [
+                "LASER"
+            ],
+            "resultsPY": [
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                5.0,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17
+            ],
+            "resultsPersonal": [
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                1.0,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17
+            ],
+            "overallScorePY": 102,
+            "overallScorePersonal": 102
+        },
+        "Stuart Yates": {
+            "boats": [
+                "PHANTOM VETERAN"
+            ],
+            "resultsPY": [
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                10.0,
+                10.0,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17
+            ],
+            "resultsPersonal": [
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                6.0,
+                5.0,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17
+            ],
+            "overallScorePY": 102,
+            "overallScorePersonal": 102
+        },
+        "Roger Fowler": {
+            "boats": [
+                "RS 200",
+                "RS AERO 7"
+            ],
+            "resultsPY": [
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                11.0,
+                9.0,
+                17,
+                17,
+                9.0,
+                10.0,
+                4.0,
+                5.0
+            ],
+            "resultsPersonal": [
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                17,
+                8.0,
+                8.0,
+                17,
+                17,
+                4.0,
+                7.0,
+                1.0,
+                1.0
+            ],
+            "overallScorePY": 102,
+            "overallScorePersonal": 102
+        }
+    },
+    "individualRaces": [
+        {
+            "raceFile": "Icicle 1 05-01-2025",
+            "PYResult": "<table id='PY'><tr><th>QE</th><th>Helm/<br>Crew</th><th>Class</th><th>PY</th><th>Laps</th><th>Time</th><th>Corrected</th><th>Rank</th></tr><tr><td>COD</td><td>Colin Clasper </td><td>DEVOTI D-ZERO</td><td>1032</td><td>3</td><td>2644</td><td>2562</td><td>1.0</td></tr>\n<tr><td>YGP</td><td>Yossi Galiko </td><td>PHANTOM</td><td>1000</td><td>3</td><td>2631</td><td>2631</td><td>2.0</td></tr>\n<tr><td>RH3</td><td>Richard Hargreaves </td><td>RS 300</td><td>965</td><td>3</td><td>2571</td><td>2664</td><td>3.0</td></tr>\n<tr><td>SKST</td><td>Steve Kirby </td><td>STREAKER</td><td>1124</td><td>2</td><td>2024</td><td>2701</td><td>4.0</td></tr>\n<tr><td>ABH</td><td>Andy Bunyan </td><td>HARRIER</td><td>1090</td><td>2</td><td>2023</td><td>2783</td><td>5.0</td></tr>\n<tr><td>RDL</td><td>Rob Doolan </td><td>LASER</td><td>1102</td><td>2</td><td>2077</td><td>2827</td><td>6.0</td></tr>\n<tr><td>MP18</td><td>Mark Patten Colin Wright</td><td>DART 18</td><td>822</td><td>3</td><td>2670</td><td>3248</td><td>7.0</td></tr>\n</table>",
+            "personalResult": "<table id ='personal'><tr><th>Helm/<br>Crew</th><th>Personal<br>Handicap</th><th>Corrected</th><th>Rank</th></tr><tr><td>Andy Bunyan </td><td>1151</td><td>2417</td><td>1.0</td></tr>\n<tr><td>Colin Clasper </td><td>1007</td><td>2544</td><td>2.0</td></tr>\n<tr><td>Yossi Galiko </td><td>1023</td><td>2571</td><td>3.0</td></tr>\n<tr><td>Steve Kirby </td><td>1046</td><td>2582</td><td>4.0</td></tr>\n<tr><td>Richard Hargreaves </td><td>982</td><td>2712</td><td>5.0</td></tr>\n<tr><td>Rob Doolan </td><td>1016</td><td>2782</td><td>6.0</td></tr>\n<tr><td>Mark Patten Colin Wright</td><td>1123</td><td>2892</td><td>7.0</td></tr>\n</table>"
+        },
+        {
+            "raceFile": "Icicle 2 05-01-2025",
+            "PYResult": "<table id='PY'><tr><th>QE</th><th>Helm/<br>Crew</th><th>Class</th><th>PY</th><th>Laps</th><th>Time</th><th>Corrected</th><th>Rank</th></tr><tr><td>COD</td><td>Colin Clasper </td><td>DEVOTI D-ZERO</td><td>1032</td><td>3</td><td>2376</td><td>2302</td><td>1.0</td></tr>\n<tr><td>YGP</td><td>Yossi Galiko </td><td>PHANTOM</td><td>1000</td><td>3</td><td>2383</td><td>2383</td><td>2.0</td></tr>\n<tr><td>RH3</td><td>Richard Hargreaves </td><td>RS 300</td><td>965</td><td>3</td><td>2348</td><td>2433</td><td>3.0</td></tr>\n<tr><td>SKST</td><td>Steve Kirby </td><td>STREAKER</td><td>1124</td><td>3</td><td>2749</td><td>2445</td><td>4.0</td></tr>\n<tr><td>RDL</td><td>Rob Doolan </td><td>LASER</td><td>1102</td><td>3</td><td>2749</td><td>2494</td><td>5.0</td></tr>\n<tr><td>ABH</td><td>Andy Bunyan </td><td>HARRIER</td><td>1090</td><td>3</td><td>2778</td><td>2548</td><td>6.0</td></tr>\n<tr><td>MP18</td><td>Mark Patten Colin Wright</td><td>DART 18</td><td>822</td><td>3</td><td>2249</td><td>2736</td><td>7.0</td></tr>\n</table>",
+            "personalResult": "<table id ='personal'><tr><th>Helm/<br>Crew</th><th>Personal<br>Handicap</th><th>Corrected</th><th>Rank</th></tr><tr><td>Andy Bunyan </td><td>1151</td><td>2213</td><td>1.0</td></tr>\n<tr><td>Colin Clasper </td><td>1007</td><td>2285</td><td>2.0</td></tr>\n<tr><td>Yossi Galiko </td><td>1023</td><td>2329</td><td>3.0</td></tr>\n<tr><td>Steve Kirby </td><td>1046</td><td>2337</td><td>4.0</td></tr>\n<tr><td>Mark Patten Colin Wright</td><td>1123</td><td>2436</td><td>5.0</td></tr>\n<tr><td>Rob Doolan </td><td>1016</td><td>2454</td><td>6.0</td></tr>\n<tr><td>Richard Hargreaves </td><td>982</td><td>2477</td><td>7.0</td></tr>\n</table>"
+        },
+        {
+            "raceFile": "Icicle 3 12-01-2025",
+            "PYResult": "<table id='PY'><tr><th>QE</th><th>Helm/<br>Crew</th><th>Class</th><th>PY</th><th>Laps</th><th>Time</th><th>Corrected</th><th>Rank</th></tr><tr><td>RH2</td><td>Richard Hargreaves James</td><td>RS 200</td><td>1046</td><td>1</td><td>3496</td><td>3342</td><td>1.0</td></tr>\n<tr><td>YGP</td><td>Yossi Galiko </td><td>PHANTOM</td><td>1000</td><td>1</td><td>3612</td><td>3612</td><td>2.0</td></tr>\n<tr><td>MHR</td><td>Mark Hejl </td><td>LASER RADIAL</td><td>1154</td><td>1</td><td>5320</td><td>4610</td><td>3.0</td></tr>\n<tr><td>SKST</td><td>Steve Kirby </td><td>STREAKER</td><td>1124</td><td>1</td><td>9000</td><td>8007</td><td>4.0</td></tr>\n</table>",
+            "personalResult": "<table id ='personal'><tr><th>Helm/<br>Crew</th><th>Personal<br>Handicap</th><th>Corrected</th><th>Rank</th></tr><tr><td>Yossi Galiko </td><td>1023</td><td>3530</td><td>1.0</td></tr>\n<tr><td>Mark Hejl </td><td>1013</td><td>4550</td><td>2.0</td></tr>\n<tr><td>Steve Kirby </td><td>1046</td><td>7654</td><td>3.0</td></tr>\n<tr><td>Richard Hargreaves James</td><td>0</td><td>0</td><td>17</td></tr>\n</table>"
+        },
+        {
+            "raceFile": "Icicle 4 19-01-2025",
+            "PYResult": "<table id='PY'><tr><th>QE</th><th>Helm/<br>Crew</th><th>Class</th><th>PY</th><th>Laps</th><th>Time</th><th>Corrected</th><th>Rank</th></tr><tr><td>MHL</td><td>Mark Hejl </td><td>LASER</td><td>1102</td><td>2</td><td>2674</td><td>2426</td><td>1.0</td></tr>\n<tr><td>RH2</td><td>Richard Hargreaves James</td><td>RS 200</td><td>1046</td><td>2</td><td>2577</td><td>2463</td><td>2.0</td></tr>\n<tr><td>COD</td><td>Colin Clasper </td><td>DEVOTI D-ZERO</td><td>1032</td><td>2</td><td>2707</td><td>2623</td><td>3.0</td></tr>\n<tr><td>YGP</td><td>Yossi Galiko </td><td>PHANTOM</td><td>1000</td><td>2</td><td>2656</td><td>2656</td><td>4.0</td></tr>\n<tr><td>REP</td><td>Russel Ellson </td><td>PHANTOM</td><td>1000</td><td>2</td><td>2883</td><td>2883</td><td>5.0</td></tr>\n<tr><td>SKST</td><td>Steve Kirby </td><td>STREAKER</td><td>1124</td><td>2</td><td>3440</td><td>3060</td><td>6.0</td></tr>\n<tr><td>SBLR</td><td>Sarah Binstead </td><td>LASER RADIAL</td><td>1154</td><td>2</td><td>3536</td><td>3064</td><td>7.0</td></tr>\n<tr><td>RDL</td><td>Rob Doolan </td><td>LASER</td><td>1102</td><td>2</td><td>3485</td><td>3162</td><td>8.0</td></tr>\n<tr><td>CMV</td><td>Chris Maher </td><td>RS VISION</td><td>1139</td><td>2</td><td>3754</td><td>3295</td><td>9.0</td></tr>\n</table>",
+            "personalResult": "<table id ='personal'><tr><th>Helm/<br>Crew</th><th>Personal<br>Handicap</th><th>Corrected</th><th>Rank</th></tr><tr><td>Mark Hejl </td><td>1015</td><td>2390</td><td>1.0</td></tr>\n<tr><td>Yossi Galiko </td><td>1023</td><td>2596</td><td>2.0</td></tr>\n<tr><td>Colin Clasper </td><td>1007</td><td>2604</td><td>3.0</td></tr>\n<tr><td>Russel Ellson </td><td>1099</td><td>2623</td><td>4.0</td></tr>\n<tr><td>Sarah Binstead </td><td>1100</td><td>2785</td><td>5.0</td></tr>\n<tr><td>Steve Kirby </td><td>1046</td><td>2925</td><td>6.0</td></tr>\n<tr><td>Rob Doolan </td><td>1016</td><td>3112</td><td>7.0</td></tr>\n<tr><td>Richard Hargreaves James</td><td>0</td><td>0</td><td>17</td></tr>\n<tr><td>Chris Maher </td><td>0</td><td>0</td><td>17</td></tr>\n</table>"
+        },
+        {
+            "raceFile": "Icicle 5 19-01-2025",
+            "PYResult": "<table id='PY'><tr><th>QE</th><th>Helm/<br>Crew</th><th>Class</th><th>PY</th><th>Laps</th><th>Time</th><th>Corrected</th><th>Rank</th></tr><tr><td>RH2</td><td>Richard Hargreaves James</td><td>RS 200</td><td>1046</td><td>2</td><td>3355</td><td>3207</td><td>1.0</td></tr>\n<tr><td>COD</td><td>Colin Clasper </td><td>DEVOTI D-ZERO</td><td>1032</td><td>2</td><td>3419</td><td>3312</td><td>2.0</td></tr>\n<tr><td>YGP</td><td>Yossi Galiko </td><td>PHANTOM</td><td>1000</td><td>2</td><td>3346</td><td>3346</td><td>3.0</td></tr>\n<tr><td>MHL</td><td>Mark Hejl </td><td>LASER</td><td>1102</td><td>2</td><td>3710</td><td>3366</td><td>4.0</td></tr>\n<tr><td>SKST</td><td>Steve Kirby </td><td>STREAKER</td><td>1124</td><td>2</td><td>4227</td><td>3760</td><td>5.0</td></tr>\n<tr><td>REP</td><td>Russel Ellson </td><td>PHANTOM</td><td>1000</td><td>2</td><td>4030</td><td>4030</td><td>6.0</td></tr>\n<tr><td>SBLR</td><td>Sarah Binstead </td><td>LASER RADIAL</td><td>1154</td><td>0</td><td>0</td><td>RET</td><td>17</td></tr>\n</table>",
+            "personalResult": "<table id ='personal'><tr><th>Helm/<br>Crew</th><th>Personal<br>Handicap</th><th>Corrected</th><th>Rank</th></tr><tr><td>Yossi Galiko </td><td>1023</td><td>3270</td><td>1.0</td></tr>\n<tr><td>Colin Clasper </td><td>1007</td><td>3288</td><td>2.0</td></tr>\n<tr><td>Mark Hejl </td><td>1015</td><td>3316</td><td>3.0</td></tr>\n<tr><td>Steve Kirby </td><td>1046</td><td>3594</td><td>4.0</td></tr>\n<tr><td>Russel Ellson </td><td>1099</td><td>3666</td><td>5.0</td></tr>\n<tr><td>Richard Hargreaves James</td><td>0</td><td>0</td><td>17</td></tr>\n<tr><td>Sarah Binstead </td><td>1100</td><td>0</td><td>17</td></tr>\n</table>"
+        },
+        {
+            "raceFile": "Icicle 6 26-01-2025",
+            "PYResult": "<table id='PY'><tr><th>QE</th><th>Helm/<br>Crew</th><th>Class</th><th>PY</th><th>Laps</th><th>Time</th><th>Corrected</th><th>Rank</th></tr><tr><td>MH4</td><td>Mark Hejl </td><td>LASER 4.7</td><td>1213</td><td>3</td><td>1760</td><td>1450</td><td>1.0</td></tr>\n<tr><td>CODB</td><td>Colin Clasper </td><td>DEVOTI D-ZB</td><td>1056</td><td>3</td><td>1742</td><td>1649</td><td>2.0</td></tr>\n<tr><td>AB15</td><td>Andy Bunyan </td><td>SPRINT 15</td><td>926</td><td>3</td><td>1538</td><td>1660</td><td>3.0</td></tr>\n<tr><td>SKST</td><td>Steve Kirby </td><td>STREAKER</td><td>1124</td><td>2</td><td>1500</td><td>2001</td><td>4.0</td></tr>\n</table>",
+            "personalResult": "<table id ='personal'><tr><th>Helm/<br>Crew</th><th>Personal<br>Handicap</th><th>Corrected</th><th>Rank</th></tr><tr><td>Mark Hejl </td><td>1013</td><td>1431</td><td>1.0</td></tr>\n<tr><td>Andy Bunyan </td><td>1094</td><td>1517</td><td>2.0</td></tr>\n<tr><td>Colin Clasper </td><td>1020</td><td>1616</td><td>3.0</td></tr>\n<tr><td>Steve Kirby </td><td>1046</td><td>1913</td><td>4.0</td></tr>\n</table>"
+        },
+        {
+            "raceFile": "Icicle 7 26-01-2025",
+            "PYResult": "<table id='PY'><tr><th>QE</th><th>Helm/<br>Crew</th><th>Class</th><th>PY</th><th>Laps</th><th>Time</th><th>Corrected</th><th>Rank</th></tr><tr><td>MH4</td><td>Mark Hejl </td><td>LASER 4.7</td><td>1213</td><td>3</td><td>1836</td><td>1513</td><td>1.0</td></tr>\n<tr><td>CODB</td><td>Colin Clasper </td><td>DEVOTI D-ZB</td><td>1056</td><td>3</td><td>1724</td><td>1632</td><td>2.0</td></tr>\n<tr><td>AB15</td><td>Andy Bunyan </td><td>SPRINT 15</td><td>926</td><td>3</td><td>1535</td><td>1657</td><td>3.0</td></tr>\n<tr><td>SKST</td><td>Steve Kirby </td><td>STREAKER</td><td>1124</td><td>2</td><td>1521</td><td>2029</td><td>4.0</td></tr>\n</table>",
+            "personalResult": "<table id ='personal'><tr><th>Helm/<br>Crew</th><th>Personal<br>Handicap</th><th>Corrected</th><th>Rank</th></tr><tr><td>Mark Hejl </td><td>1013</td><td>1493</td><td>1.0</td></tr>\n<tr><td>Andy Bunyan </td><td>1094</td><td>1514</td><td>2.0</td></tr>\n<tr><td>Colin Clasper </td><td>1020</td><td>1600</td><td>3.0</td></tr>\n<tr><td>Steve Kirby </td><td>1046</td><td>1939</td><td>4.0</td></tr>\n</table>"
+        },
+        {
+            "raceFile": "Icicle 8 02-02-2025",
+            "PYResult": "<table id='PY'><tr><th>QE</th><th>Helm/<br>Crew</th><th>Class</th><th>PY</th><th>Laps</th><th>Time</th><th>Corrected</th><th>Rank</th></tr><tr><td>JSZ</td><td>Jim Strother </td><td>DEVOTI D-ZERO</td><td>1032</td><td>4</td><td>3058</td><td>2963</td><td>1.0</td></tr>\n<tr><td>TBS</td><td>Tim Browning </td><td>STREAKER</td><td>1124</td><td>4</td><td>3354</td><td>2983</td><td>2.0</td></tr>\n<tr><td>RH2</td><td>Richard Hargreaves James</td><td>RS 200</td><td>1046</td><td>4</td><td>3142</td><td>3003</td><td>3.0</td></tr>\n<tr><td>YGP</td><td>Yossi Galiko </td><td>PHANTOM</td><td>1000</td><td>4</td><td>3012</td><td>3012</td><td>4.0</td></tr>\n<tr><td>IPL</td><td>Ian Pasquet </td><td>LASER</td><td>1102</td><td>4</td><td>3360</td><td>3049</td><td>5.0</td></tr>\n<tr><td>COD</td><td>Colin Clasper </td><td>DEVOTI D-ZERO</td><td>1032</td><td>4</td><td>3237</td><td>3136</td><td>6.0</td></tr>\n<tr><td>CMP</td><td>Chris Maher </td><td>PHANTOM</td><td>1000</td><td>4</td><td>3251</td><td>3251</td><td>7.0</td></tr>\n<tr><td>REP</td><td>Russel Ellson </td><td>PHANTOM</td><td>1000</td><td>4</td><td>3264</td><td>3264</td><td>8.0</td></tr>\n<tr><td>RDL</td><td>Rob Doolan </td><td>LASER</td><td>1102</td><td>3</td><td>2724</td><td>3295</td><td>9.0</td></tr>\n<tr><td>SYPV</td><td>Stuart Yates </td><td>PHANTOM VETERAN</td><td>1047</td><td>3</td><td>2815</td><td>3584</td><td>10.0</td></tr>\n<tr><td>RF2</td><td>Roger Fowler </td><td>RS 200</td><td>1046</td><td>3</td><td>2842</td><td>3622</td><td>11.0</td></tr>\n</table>",
+            "personalResult": "<table id ='personal'><tr><th>Helm/<br>Crew</th><th>Personal<br>Handicap</th><th>Corrected</th><th>Rank</th></tr><tr><td>Ian Pasquet </td><td>1091</td><td>2794</td><td>1.0</td></tr>\n<tr><td>Jim Strother </td><td>1016</td><td>2916</td><td>2.0</td></tr>\n<tr><td>Yossi Galiko </td><td>1023</td><td>2944</td><td>3.0</td></tr>\n<tr><td>Russel Ellson </td><td>1099</td><td>2969</td><td>4.0</td></tr>\n<tr><td>Tim Browning </td><td>999</td><td>2985</td><td>5.0</td></tr>\n<tr><td>Stuart Yates </td><td>1200</td><td>2986</td><td>6.0</td></tr>\n<tr><td>Colin Clasper </td><td>1007</td><td>3114</td><td>7.0</td></tr>\n<tr><td>Roger Fowler </td><td>1142</td><td>3171</td><td>8.0</td></tr>\n<tr><td>Chris Maher </td><td>1007</td><td>3228</td><td>9.0</td></tr>\n<tr><td>Rob Doolan </td><td>1016</td><td>3243</td><td>10.0</td></tr>\n<tr><td>Richard Hargreaves James</td><td>0</td><td>0</td><td>17</td></tr>\n</table>"
+        },
+        {
+            "raceFile": "Icicle 9 02-02-2025",
+            "PYResult": "<table id='PY'><tr><th>QE</th><th>Helm/<br>Crew</th><th>Class</th><th>PY</th><th>Laps</th><th>Time</th><th>Corrected</th><th>Rank</th></tr><tr><td>COD</td><td>Colin Clasper </td><td>DEVOTI D-ZERO</td><td>1032</td><td>3</td><td>2426</td><td>2350</td><td>1.0</td></tr>\n<tr><td>RH2</td><td>Richard Hargreaves James</td><td>RS 200</td><td>1046</td><td>3</td><td>2475</td><td>2366</td><td>2.0</td></tr>\n<tr><td>TBS</td><td>Tim Browning </td><td>STREAKER</td><td>1124</td><td>3</td><td>2678</td><td>2382</td><td>3.0</td></tr>\n<tr><td>JSZ</td><td>Jim Strother </td><td>DEVOTI D-ZERO</td><td>1032</td><td>3</td><td>2555</td><td>2475</td><td>4.0</td></tr>\n<tr><td>REP</td><td>Russel Ellson </td><td>PHANTOM</td><td>1000</td><td>3</td><td>2507</td><td>2507</td><td>5.0</td></tr>\n<tr><td>RDL</td><td>Rob Doolan </td><td>LASER</td><td>1102</td><td>3</td><td>2780</td><td>2522</td><td>6.0</td></tr>\n<tr><td>YGP</td><td>Yossi Galiko </td><td>PHANTOM</td><td>1000</td><td>3</td><td>2554</td><td>2554</td><td>7.0</td></tr>\n<tr><td>CMP</td><td>Chris Maher </td><td>PHANTOM</td><td>1000</td><td>3</td><td>2586</td><td>2586</td><td>8.0</td></tr>\n<tr><td>RF2</td><td>Roger Fowler </td><td>RS 200</td><td>1046</td><td>3</td><td>3005</td><td>2872</td><td>9.0</td></tr>\n<tr><td>SYPV</td><td>Stuart Yates </td><td>PHANTOM VETERAN</td><td>1047</td><td>3</td><td>3111</td><td>2971</td><td>10.0</td></tr>\n<tr><td>MP4</td><td>Mark Patten </td><td>RS 400</td><td>939</td><td>3</td><td>2812</td><td>2994</td><td>11.0</td></tr>\n</table>",
+            "personalResult": "<table id ='personal'><tr><th>Helm/<br>Crew</th><th>Personal<br>Handicap</th><th>Corrected</th><th>Rank</th></tr><tr><td>Russel Ellson </td><td>1099</td><td>2281</td><td>1.0</td></tr>\n<tr><td>Colin Clasper </td><td>1007</td><td>2333</td><td>2.0</td></tr>\n<tr><td>Tim Browning </td><td>999</td><td>2384</td><td>3.0</td></tr>\n<tr><td>Jim Strother </td><td>1016</td><td>2436</td><td>4.0</td></tr>\n<tr><td>Stuart Yates </td><td>1200</td><td>2475</td><td>5.0</td></tr>\n<tr><td>Rob Doolan </td><td>1016</td><td>2482</td><td>6.0</td></tr>\n<tr><td>Yossi Galiko </td><td>1023</td><td>2496</td><td>7.0</td></tr>\n<tr><td>Roger Fowler </td><td>1142</td><td>2514</td><td>8.0</td></tr>\n<tr><td>Chris Maher </td><td>1007</td><td>2568</td><td>9.0</td></tr>\n<tr><td>Mark Patten </td><td>1070</td><td>2798</td><td>10.0</td></tr>\n<tr><td>Richard Hargreaves James</td><td>0</td><td>0</td><td>17</td></tr>\n</table>"
+        },
+        {
+            "raceFile": "Icicle 10 09-02-2025",
+            "PYResult": "<table id='PY'><tr><th>QE</th><th>Helm/<br>Crew</th><th>Class</th><th>PY</th><th>Laps</th><th>Time</th><th>Corrected</th><th>Rank</th></tr><tr><td>COD</td><td>Colin Clasper </td><td>DEVOTI D-ZERO</td><td>1032</td><td>4</td><td>2566</td><td>2486</td><td>1.0</td></tr>\n<tr><td>MHR</td><td>Mark Hejl </td><td>LASER RADIAL</td><td>1154</td><td>4</td><td>2877</td><td>2493</td><td>2.0</td></tr>\n<tr><td>YGP</td><td>Yossi Galiko </td><td>PHANTOM</td><td>1000</td><td>4</td><td>2520</td><td>2520</td><td>3.0</td></tr>\n<tr><td>RH2</td><td>Richard Hargreaves James</td><td>RS 200</td><td>1046</td><td>4</td><td>2670</td><td>2552</td><td>4.0</td></tr>\n<tr><td>JSZ</td><td>Jim Strother </td><td>DEVOTI D-ZERO</td><td>1032</td><td>4</td><td>2673</td><td>2590</td><td>5.0</td></tr>\n<tr><td>TBS</td><td>Tim Browning </td><td>STREAKER</td><td>1124</td><td>4</td><td>2948</td><td>2622</td><td>6.0</td></tr>\n<tr><td>ABH</td><td>Andy Bunyan </td><td>HARRIER</td><td>1090</td><td>3</td><td>2322</td><td>2840</td><td>7.0</td></tr>\n<tr><td>SKST</td><td>Steve Kirby </td><td>STREAKER</td><td>1124</td><td>3</td><td>2433</td><td>2886</td><td>8.0</td></tr>\n<tr><td>RF7</td><td>Roger Fowler </td><td>RS AERO 7</td><td>1061</td><td>0</td><td>0</td><td>DNF</td><td>17</td></tr>\n</table>",
+            "personalResult": "<table id ='personal'><tr><th>Helm/<br>Crew</th><th>Personal<br>Handicap</th><th>Corrected</th><th>Rank</th></tr><tr><td>Mark Hejl </td><td>1013</td><td>2461</td><td>1.0</td></tr>\n<tr><td>Yossi Galiko </td><td>1023</td><td>2463</td><td>2.0</td></tr>\n<tr><td>Andy Bunyan </td><td>1151</td><td>2467</td><td>3.0</td></tr>\n<tr><td>Colin Clasper </td><td>1007</td><td>2468</td><td>4.0</td></tr>\n<tr><td>Jim Strother </td><td>1016</td><td>2549</td><td>5.0</td></tr>\n<tr><td>Tim Browning </td><td>999</td><td>2624</td><td>6.0</td></tr>\n<tr><td>Steve Kirby </td><td>1046</td><td>2759</td><td>7.0</td></tr>\n<tr><td>Richard Hargreaves James</td><td>0</td><td>0</td><td>17</td></tr>\n<tr><td>Roger Fowler </td><td>1157</td><td>0</td><td>17</td></tr>\n</table>"
+        },
+        {
+            "raceFile": "Icicle 11 09-02-2025",
+            "PYResult": "<table id='PY'><tr><th>QE</th><th>Helm/<br>Crew</th><th>Class</th><th>PY</th><th>Laps</th><th>Time</th><th>Corrected</th><th>Rank</th></tr><tr><td>COD</td><td>Colin Clasper </td><td>DEVOTI D-ZERO</td><td>1032</td><td>4</td><td>2701</td><td>2617</td><td>1.0</td></tr>\n<tr><td>TBS</td><td>Tim Browning </td><td>STREAKER</td><td>1124</td><td>4</td><td>3024</td><td>2690</td><td>2.0</td></tr>\n<tr><td>MHR</td><td>Mark Hejl </td><td>LASER RADIAL</td><td>1154</td><td>4</td><td>3146</td><td>2726</td><td>3.0</td></tr>\n<tr><td>JSZ</td><td>Jim Strother </td><td>DEVOTI D-ZERO</td><td>1032</td><td>4</td><td>2819</td><td>2731</td><td>4.0</td></tr>\n<tr><td>RH2</td><td>Richard Hargreaves James</td><td>RS 200</td><td>1046</td><td>4</td><td>2866</td><td>2739</td><td>5.0</td></tr>\n<tr><td>ABH</td><td>Andy Bunyan </td><td>HARRIER</td><td>1090</td><td>4</td><td>3208</td><td>2943</td><td>6.0</td></tr>\n<tr><td>SKST</td><td>Steve Kirby </td><td>STREAKER</td><td>1124</td><td>3</td><td>2903</td><td>3443</td><td>7.0</td></tr>\n<tr><td>YGP</td><td>Yossi Galiko </td><td>PHANTOM</td><td>1000</td><td>0</td><td>0</td><td>DNF</td><td>17</td></tr>\n</table>",
+            "personalResult": "<table id ='personal'><tr><th>Helm/<br>Crew</th><th>Personal<br>Handicap</th><th>Corrected</th><th>Rank</th></tr><tr><td>Andy Bunyan </td><td>1151</td><td>2556</td><td>1.0</td></tr>\n<tr><td>Colin Clasper </td><td>1007</td><td>2598</td><td>2.0</td></tr>\n<tr><td>Jim Strother </td><td>1016</td><td>2687</td><td>3.0</td></tr>\n<tr><td>Mark Hejl </td><td>1013</td><td>2691</td><td>4.0</td></tr>\n<tr><td>Tim Browning </td><td>999</td><td>2692</td><td>5.0</td></tr>\n<tr><td>Steve Kirby </td><td>1046</td><td>3291</td><td>6.0</td></tr>\n<tr><td>Richard Hargreaves James</td><td>0</td><td>0</td><td>17</td></tr>\n<tr><td>Yossi Galiko </td><td>1023</td><td>0</td><td>17</td></tr>\n</table>"
+        },
+        {
+            "raceFile": "Icicle 12 16-02-2025",
+            "PYResult": "<table id='PY'><tr><th>QE</th><th>Helm/<br>Crew</th><th>Class</th><th>PY</th><th>Laps</th><th>Time</th><th>Corrected</th><th>Rank</th></tr><tr><td>MHR</td><td>Mark Hejl </td><td>LASER RADIAL</td><td>1154</td><td>3</td><td>2190</td><td>2530</td><td>1.0</td></tr>\n<tr><td>RH3</td><td>Richard Hargreaves </td><td>RS 300</td><td>965</td><td>4</td><td>2466</td><td>2555</td><td>2.0</td></tr>\n<tr><td>COD</td><td>Colin Clasper </td><td>DEVOTI D-ZERO</td><td>1032</td><td>4</td><td>2659</td><td>2576</td><td>3.0</td></tr>\n<tr><td>JSZ</td><td>Jim Strother </td><td>DEVOTI D-ZERO</td><td>1032</td><td>4</td><td>2694</td><td>2610</td><td>4.0</td></tr>\n<tr><td>REP</td><td>Russel Ellson </td><td>PHANTOM</td><td>1000</td><td>4</td><td>2665</td><td>2665</td><td>5.0</td></tr>\n<tr><td>SBLR</td><td>Sarah Binstead </td><td>LASER RADIAL</td><td>1154</td><td>3</td><td>2320</td><td>2680</td><td>6.0</td></tr>\n<tr><td>RDL</td><td>Rob Doolan </td><td>LASER</td><td>1102</td><td>3</td><td>2320</td><td>2807</td><td>7.0</td></tr>\n<tr><td>CMP</td><td>Chris Maher </td><td>PHANTOM</td><td>1000</td><td>3</td><td>2123</td><td>2830</td><td>8.0</td></tr>\n<tr><td>RF7</td><td>Roger Fowler </td><td>RS AERO 7</td><td>1061</td><td>3</td><td>2330</td><td>2928</td><td>9.0</td></tr>\n<tr><td>SKST</td><td>Steve Kirby </td><td>STREAKER</td><td>1124</td><td>3</td><td>2492</td><td>2956</td><td>10.0</td></tr>\n</table>",
+            "personalResult": "<table id ='personal'><tr><th>Helm/<br>Crew</th><th>Personal<br>Handicap</th><th>Corrected</th><th>Rank</th></tr><tr><td>Russel Ellson </td><td>1099</td><td>2424</td><td>1.0</td></tr>\n<tr><td>Sarah Binstead </td><td>1100</td><td>2436</td><td>2.0</td></tr>\n<tr><td>Mark Hejl </td><td>1013</td><td>2497</td><td>3.0</td></tr>\n<tr><td>Roger Fowler </td><td>1157</td><td>2530</td><td>4.0</td></tr>\n<tr><td>Colin Clasper </td><td>1007</td><td>2558</td><td>5.0</td></tr>\n<tr><td>Jim Strother </td><td>1016</td><td>2568</td><td>6.0</td></tr>\n<tr><td>Richard Hargreaves </td><td>982</td><td>2601</td><td>7.0</td></tr>\n<tr><td>Rob Doolan </td><td>1016</td><td>2762</td><td>8.0</td></tr>\n<tr><td>Chris Maher </td><td>1007</td><td>2810</td><td>9.0</td></tr>\n<tr><td>Steve Kirby </td><td>1046</td><td>2826</td><td>10.0</td></tr>\n</table>"
+        },
+        {
+            "raceFile": "Icicle 13 16-02-2025",
+            "PYResult": "<table id='PY'><tr><th>QE</th><th>Helm/<br>Crew</th><th>Class</th><th>PY</th><th>Laps</th><th>Time</th><th>Corrected</th><th>Rank</th></tr><tr><td>RH3</td><td>Richard Hargreaves </td><td>RS 300</td><td>965</td><td>4</td><td>2560</td><td>2652</td><td>1.0</td></tr>\n<tr><td>MHR</td><td>Mark Hejl </td><td>LASER RADIAL</td><td>1154</td><td>3</td><td>2304</td><td>2662</td><td>2.0</td></tr>\n<tr><td>COD</td><td>Colin Clasper </td><td>DEVOTI D-ZERO</td><td>1032</td><td>4</td><td>2816</td><td>2728</td><td>3.0</td></tr>\n<tr><td>JSZ</td><td>Jim Strother </td><td>DEVOTI D-ZERO</td><td>1032</td><td>4</td><td>2880</td><td>2790</td><td>4.0</td></tr>\n<tr><td>CMP</td><td>Chris Maher </td><td>PHANTOM</td><td>1000</td><td>4</td><td>2916</td><td>2916</td><td>5.0</td></tr>\n<tr><td>REP</td><td>Russel Ellson </td><td>PHANTOM</td><td>1000</td><td>4</td><td>2942</td><td>2942</td><td>6.0</td></tr>\n<tr><td>SBLR</td><td>Sarah Binstead </td><td>LASER RADIAL</td><td>1154</td><td>3</td><td>2552</td><td>2948</td><td>7.0</td></tr>\n<tr><td>SKST</td><td>Steve Kirby </td><td>STREAKER</td><td>1124</td><td>3</td><td>2558</td><td>3034</td><td>8.0</td></tr>\n<tr><td>RDL</td><td>Rob Doolan </td><td>LASER</td><td>1102</td><td>3</td><td>2570</td><td>3109</td><td>9.0</td></tr>\n<tr><td>RF7</td><td>Roger Fowler </td><td>RS AERO 7</td><td>1061</td><td>3</td><td>2539</td><td>3190</td><td>10.0</td></tr>\n</table>",
+            "personalResult": "<table id ='personal'><tr><th>Helm/<br>Crew</th><th>Personal<br>Handicap</th><th>Corrected</th><th>Rank</th></tr><tr><td>Mark Hejl </td><td>1013</td><td>2627</td><td>1.0</td></tr>\n<tr><td>Russel Ellson </td><td>1099</td><td>2676</td><td>2.0</td></tr>\n<tr><td>Sarah Binstead </td><td>1100</td><td>2680</td><td>3.0</td></tr>\n<tr><td>Richard Hargreaves </td><td>982</td><td>2700</td><td>4.0</td></tr>\n<tr><td>Colin Clasper </td><td>1007</td><td>2709</td><td>5.0</td></tr>\n<tr><td>Jim Strother </td><td>1016</td><td>2746</td><td>6.0</td></tr>\n<tr><td>Roger Fowler </td><td>1157</td><td>2757</td><td>7.0</td></tr>\n<tr><td>Chris Maher </td><td>1007</td><td>2895</td><td>8.0</td></tr>\n<tr><td>Steve Kirby </td><td>1046</td><td>2900</td><td>9.0</td></tr>\n<tr><td>Rob Doolan </td><td>1016</td><td>3060</td><td>10.0</td></tr>\n</table>"
+        },
+        {
+            "raceFile": "Icicle 14 02-03-2025",
+            "PYResult": "<table id='PY'><tr><th>QE</th><th>Helm/<br>Crew</th><th>Class</th><th>PY</th><th>Laps</th><th>Time</th><th>Corrected</th><th>Rank</th></tr><tr><td>RH2</td><td>Richard Hargreaves James</td><td>RS 200</td><td>1046</td><td>3</td><td>2713</td><td>2593</td><td>1.0</td></tr>\n<tr><td>MHL</td><td>Mark Hejl </td><td>LASER</td><td>1102</td><td>2</td><td>2402</td><td>3269</td><td>2.0</td></tr>\n<tr><td>TBS</td><td>Tim Browning </td><td>STREAKER</td><td>1124</td><td>2</td><td>2460</td><td>3282</td><td>3.0</td></tr>\n<tr><td>RF7</td><td>Roger Fowler </td><td>RS AERO 7</td><td>1061</td><td>2</td><td>2392</td><td>3381</td><td>4.0</td></tr>\n<tr><td>COD</td><td>Colin Clasper </td><td>DEVOTI D-ZERO</td><td>1032</td><td>2</td><td>2370</td><td>3444</td><td>5.0</td></tr>\n</table>",
+            "personalResult": "<table id ='personal'><tr><th>Helm/<br>Crew</th><th>Personal<br>Handicap</th><th>Corrected</th><th>Rank</th></tr><tr><td>Roger Fowler </td><td>1157</td><td>2922</td><td>1.0</td></tr>\n<tr><td>Mark Hejl </td><td>1015</td><td>3220</td><td>2.0</td></tr>\n<tr><td>Tim Browning </td><td>999</td><td>3285</td><td>3.0</td></tr>\n<tr><td>Colin Clasper </td><td>1007</td><td>3420</td><td>4.0</td></tr>\n<tr><td>Richard Hargreaves James</td><td>0</td><td>0</td><td>17</td></tr>\n</table>"
+        },
+        {
+            "raceFile": "Icicle 15 02-03-2025",
+            "PYResult": "<table id='PY'><tr><th>QE</th><th>Helm/<br>Crew</th><th>Class</th><th>PY</th><th>Laps</th><th>Time</th><th>Corrected</th><th>Rank</th></tr><tr><td>RH2</td><td>Richard Hargreaves James</td><td>RS 200</td><td>1046</td><td>3</td><td>2343</td><td>2239</td><td>1.0</td></tr>\n<tr><td>COD</td><td>Colin Clasper </td><td>DEVOTI D-ZERO</td><td>1032</td><td>3</td><td>2501</td><td>2423</td><td>2.0</td></tr>\n<tr><td>TBS</td><td>Tim Browning </td><td>STREAKER</td><td>1124</td><td>3</td><td>2871</td><td>2554</td><td>3.0</td></tr>\n<tr><td>MHL</td><td>Mark Hejl </td><td>LASER</td><td>1102</td><td>3</td><td>2816</td><td>2555</td><td>4.0</td></tr>\n<tr><td>RF7</td><td>Roger Fowler </td><td>RS AERO 7</td><td>1061</td><td>3</td><td>2912</td><td>2744</td><td>5.0</td></tr>\n</table>",
+            "personalResult": "<table id ='personal'><tr><th>Helm/<br>Crew</th><th>Personal<br>Handicap</th><th>Corrected</th><th>Rank</th></tr><tr><td>Roger Fowler </td><td>1157</td><td>2371</td><td>1.0</td></tr>\n<tr><td>Colin Clasper </td><td>1007</td><td>2406</td><td>2.0</td></tr>\n<tr><td>Mark Hejl </td><td>1015</td><td>2517</td><td>3.0</td></tr>\n<tr><td>Tim Browning </td><td>999</td><td>2556</td><td>4.0</td></tr>\n<tr><td>Richard Hargreaves James</td><td>0</td><td>0</td><td>17</td></tr>\n</table>"
+        }
+    ]
+}
